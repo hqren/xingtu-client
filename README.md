@@ -2,8 +2,9 @@
 Web日志分析工具-星图
 
 注意:
-该程序运行于windows环境，需要依赖JRE环境。如果未安装JRE,请前往http://javadl.sun.com/webapps/download/AutoDL?BundleId=95123进行下载安装
-普通版single运行前需安装JRE环境；完整版full包含了JRE环境。
+该程序运行于windows环境，需要依赖JRE环境。
+普通版single.zip运行前需安装JRE环境；
+完整版full.zip包含了JRE环境。
 
 使用说明:
 第一步：打开配置文件/conf/config.ini：填写日志路径[log_file配置项]，其他配置项可以选择配置
